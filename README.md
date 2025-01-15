@@ -1,1 +1,1 @@
-# Empty project with default git and editor setup
+# Prometheus exporter for Sagecom F@st 5360
