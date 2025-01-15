@@ -6,3 +6,6 @@
 # Ignore Windows temporary files
 Thumbs.db
 Desktop.ini
+
+
+tmp/*
